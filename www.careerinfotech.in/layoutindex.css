@@ -1,0 +1,192 @@
+main{
+    background-color: blue;
+    height: 100vh;
+   display: flex;
+  flex-direction: column;
+    width: 100vw;
+}
+header{
+    background-color: blueviolet;
+    flex-grow: -1;
+    display: flex;
+    
+}
+.logo{
+    background-color: aqua;
+    height: 100px;width: 300px;
+}
+.social{
+    background-color: chartreuse;
+   flex-grow: 1;
+}
+section{
+    background-color: brown;
+  
+    flex-grow: 8;
+    display: flex;
+    flex-direction: row;
+    float: left;
+
+    
+    
+}
+.features{
+    text-align: center;
+    float: left;
+}
+.features h1{
+    text-align: center;
+}
+
+.box{background-color: blue;
+    height: 400px;
+   margin: 3px;
+    padding: 2px;
+    width: 320px;
+    border: 2px solid black;
+float: left;}
+    .box2{background-color: blue;
+        height: 400px;
+        width: 350px;
+      margin: 3px;
+        padding: 3px;
+        border: 2px solid black;
+    float: left;}
+        .box3{background-color: blue;
+            height: 400px;
+            width: 300px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;}
+        article{
+            background-color: chartreuse;
+           text-align: center;
+
+        }
+        article h1{
+            text-align: center;
+        }
+        .about{
+            background-color: coral;
+            height: 300px;
+            width: 500px;
+            margin: 2px;
+            padding: 2px;
+            border: 2px solid black;
+            float: left;
+        }
+        .about2{ height: 300px;
+            background-color: crimson;
+            width: 500px;
+            margin: 2px;
+            padding: 2px;
+            border: 2px solid black;
+            float: left;}
+        nav{background-color: blueviolet;
+            
+          
+            text-align: center;
+
+        }
+           nav h2{
+           text-align: center;
+           text-decoration: none;
+           }
+           .review{
+            background-color: aqua;
+            height: 300px;
+            width: 300px;
+            margin: 2px;
+            padding: 2px;
+            border: 2px solid black;
+            float: left;
+
+
+        }
+        .review2{
+            background-color: aqua;
+            height: 300px;
+            width: 300px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left
+            
+        }
+        .review3{
+            background-color: aqua;
+            height: 300px;
+            width: 300px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+        }
+        aside{background-color: cornflowerblue;
+        text-align: center;
+    }
+    aside h1{
+        text-align: center;
+    }
+    .box4{
+        background-color: darkgoldenrod;
+        height: 300px;
+            width: 300px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+    }
+    .box5{
+        background-color: darkgoldenrod;
+        height: 300px;
+            width: 350px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+    }
+    .box6{
+        background-color: darkgoldenrod;
+        height: 300px;
+            width: 300px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+    }
+        .content{
+            background-color: crimson;
+            text-align: center;
+        }    
+        .content h1{
+            text-align: center;
+        }
+        .box7{
+            background-color: rgb(46, 184, 11);
+        height: 300px;
+            width: 500px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+        }
+        .box8{
+            background-color: rgb(46, 184, 11);
+        height: 300px;
+            width: 500px;
+            margin: 3px;
+            padding: 3px;
+            border: 2px solid black;
+        float: left;
+        }
+footer{
+    background-color: aqua;
+    flex-grow: 1;
+    float: left;
+    
+    text-align: center;
+   
+    
+}

@@ -1,0 +1,6 @@
+input[type]{
+  border: 2px solid rebeccapurple;
+}
+img[alt^="image"]{
+  border: 3px double red;
+}

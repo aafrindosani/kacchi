@@ -1,24 +1,7 @@
 .box{
-    background-color: blueviolet
-    ;
+    background-color: blueviolet ;
     height: 400px;
     width: 400px;
-float: right;
+
 transform: rotate(45deg);}
-    
-.box2{
-    background-color: rgba(121, 76, 83, 0.534);
-    height: 400px;
-    width: 400px;
-    transform: rotate(45deg);
 
-}
-
-.box:hover{
-    background-color: gray;}
-    .box2:hover{
-        background-color: gray;}
- 
-
-
-}
